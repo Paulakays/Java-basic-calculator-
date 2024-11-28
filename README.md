@@ -1,0 +1,1 @@
+This is a basic model of a calculator that can be accessed through a code editor terminal. The calculator can only do sums of whole numbers and numbers between "-2,147,483,648 to 2,147,483,647", since the value 'int' has been used.
